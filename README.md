@@ -31,4 +31,4 @@
 
 ##
 
-![snake gif](https://github.com/gustavoacs2000/gustavoacs2000/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/gustavoacs2000/gustavoacs2000/output/github-contribution-grid-snake.svg)

@@ -31,5 +31,8 @@
 
 ##
 
-![Snake animation](https://raw.githubusercontent.com/gustavoacs2000/gustavoacs2000/output/github-contribution-grid-snake.svg)
+### 🐍 Snake eating my contributions
+
+![Snake animation](https://raw.githubusercontent.com/gustavoacs2000/gustavoacs2000/output/github-snake-custom.svg?color_snake=orange&color_dots=#d1c089,#ab843d,#ba9f69,#8b6d1d,#6a4e0a)
+
 

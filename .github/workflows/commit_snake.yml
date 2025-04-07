@@ -10,11 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate the snake animation SVG
       - name: Generate the snake animation
         uses: Platane/snk@v3
         with:
@@ -22,11 +20,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      # Optional: list the contents of the output directory
       - name: Show output files
         run: ls -la dist
 
-      # Deploy to GitHub Pages branch (output)
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
